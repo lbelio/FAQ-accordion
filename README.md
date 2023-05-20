@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution!](https://github.com/lbelio/faq-accordion-card-main.git)
+- Solution URL: [Solution!](https://github.com/lbelio/FAQ-accordion/blob/main/index.html)
 - Live Site URL: [Site!](https://lbelio.github.io/FAQ-accordion/)
 
 ## My process
