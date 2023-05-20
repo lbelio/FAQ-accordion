@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution!](https://github.com/lbelio/faq-accordion-card-main.git)
-- Live Site URL: [Site!](https://lbelio.github.io/faq-accordion-card-main/)
+- Live Site URL: [Site!](https://lbelio.github.io/faq-accordion-card-main/](https://lbelio.github.io/FAQ-accordion/)
 
 ## My process
 
