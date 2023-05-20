@@ -50,29 +50,25 @@ I selected this challenge as my first challenge which includes Javascript. Littl
 I finally understood why there are so many memes related to positioning things with CSS. The SVG elements in this challenge turned out to be a real nemesis. While I did attempt at positioning the orange box over exactly where it needed to go, and I tried to find the correct way to
 add the shadow behind the main SVG element, I realised that I'll learn a lot more if I give myself a chance to learn from someone a lot more experienced.
 
-So I found a CoderCoder video on this particular project and I chose to code-along with her. I am well aware that many people recommend NOT to rely on code-alongs and I agree, which is why I chose to make notes while coding along. I learned an immense amount from CoderCoder.
+To overcome this, I decided to follow along with a CoderCoder video tutorial. Although it's generally advised not to rely too heavily on code-alongs, I took notes while following along to ensure I gained a deeper understanding. I learned a great deal from CoderCoder's approach.
 
 Firstly, I love the fact that one of the first things she says is that she has no idea how to make an accordion, so she reverse engineers a bootstrap example and applies it to this project. (definitely keeping this tip for future use).
 
-It also helps seeing someone's approach to a new projects and their workflow. I seem to struggle to visualise how to approach a project so following along gives me a better idea on how to do so.
+Here are some major takeaways:
 
-Major things i learned:
-
-- Understand the purpose of ::after, ::before.
-- Better understanding of siblings and parents.
-- The usage of class specificity and its proper syntax.
-- a way to approach a project and general workflow.
-- troubleshooting! this was major for me. It really helps seeing how professionals go about working out an issue. CoderCoder spends a long time working out the accordion expanding and collapsing using Javascript. I will have to look back to this part to make sure i fully understand.
+Understanding the purpose of ::after and ::before pseudo-elements.
+Improved understanding of sibling and parent relationships in CSS.
+Proper usage and understanding of class specificity.
+Approaching a project and establishing a workflow.
+Troubleshooting techniques. CoderCoder spent considerable time working through the expansion and collapse functionality of the accordion using JavaScript, which I plan to revisit for better comprehension.
 
 ### Continued development
 
-I will continue to work with CSS, specifically positioning and using properties like: position and display. Need to gain better understanding of their proper usage. Transform: translate is another property I'd like to get to grips with more as well.
+Moving forward, I will focus on further developing my CSS skills, particularly regarding positioning and the usage of properties like position and display. I also intend to gain a better understanding of transform: translate and experiment with it more.
 
-The Javascript of this project was rather confusing with the seemingly overly complicated way to open up each segment of the accordion. I will definitely play around with that.
+The JavaScript implementation in this project was initially confusing, particularly the seemingly complex way of expanding and collapsing each accordion section. I will dedicate time to exploring and experimenting with this aspect.
 
-I should also revisit :focus and focus-visible properties.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Additionally, I plan to revisit properties like :focus and focus-visible to deepen my understanding and leverage their functionality in future projects.
 
 ### Useful resources
 
